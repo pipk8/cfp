@@ -1,0 +1,6 @@
+{
+  "name": "cf-collect-api",
+  "version": "1.0.0",
+  "scripts": { "build": "echo 'build done'" },
+  "dependencies": { "express": "^4.18.2", "node-fetch": "^3.3.2" }
+}
